@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osu4life75
+- 👋 Hi, I am a Code Newbie 
 - 👀 I’m interested in software testing and front end development. 
 - 🌱 I’m currently learning HTML, CSS, and JavaScript. 
 - 💞️ I’m looking to collaborate on ...
