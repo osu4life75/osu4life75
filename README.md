@@ -1,5 +1,5 @@
 - 👋 Hi, I am a Code Newbie 
-- 👀 I’m interested in software testing and front end development. 
+- 👀 Just recieved my softwared testing certificate, and work as a freelancer. 
 - 🌱 I’m currently learning HTML, CSS, and JavaScript. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me osu4life75@gmail.com
