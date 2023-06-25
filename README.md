@@ -1,6 +1,6 @@
 - 👋 Hi, I am a Code Newbie 
 - 👀 Just recieved my softwared testing certificate, and work as a freelancer. 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript. 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Node.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me osu4life75@gmail.com
 
