@@ -1,4 +1,4 @@
-- 👋 Hi, I am a Code Newbie 
+- 👋 Hi, I am new to the feild and my experience level is Jr./Intermidate Software Dev. 
 - 👀 Just recieved my softwared testing certificate, and work as a freelancer. 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Node.js.
 - 💞️ I’m looking to collaborate on ...
